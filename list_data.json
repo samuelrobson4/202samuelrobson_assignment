@@ -1,22 +1,32 @@
 {
-	"movies": [
+	"jobs": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Product Strategy Manager",
+			"Company": "TikTok",
+			"Location": "New York City Metropolitan Area",
+			"Years": "Sep 2022 - Jun 2025 · 2 yrs 10 mos",
+			"Focus": "Led strategic initiatives for creator growth, product innovation, and cross-functional operations."
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Product Manager",
+			"Company": "Accenture",
+			"Location": "London Area, United Kingdom",
+			"Years": "Mar 2020 - Sep 2022 · 2 yrs 7 mos",
+			"Focus": "Delivered design-led technology and strategy projects for global clients in the consumer and tech sectors."
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Finance Analyst",
+			"Company": "BNY Mellon",
+			"Location": "London Area, United Kingdom",
+			"Years": "Jan 2018 - Jan 2019 · 1 yr 1 mo",
+			"Focus": "Supported financial analysis and reporting within global markets and investment operations."
+		},
+		{
+			"Title": "Marketing Intern",
+			"Company": "L'Oréal",
+			"Location": "Paris Area, France",
+			"Years": "2017 · Less than a year",
+			"Focus": "Assisted in product launch planning, market research, and brand communications for the luxury division."
 		}
 	]
 }
