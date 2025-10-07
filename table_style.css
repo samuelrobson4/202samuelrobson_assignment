@@ -1,4 +1,7 @@
 table {
+  margin-left: 0;
+  margin-right: auto;
+  text-align: left;
   width: 75%;
   font-size: large;
 }
